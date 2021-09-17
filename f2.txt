@@ -1,0 +1,6 @@
+On my keyboard, the f2 key when pressed does something.
+I do not know what it does. 
+I have a laptop keyboard.
+So when I press fn key and then press f2 key, then it reduces the brightness of the screen. 
+Interesting. I think pressing F2 normally would jump you to edit either the name of the file or the things that are written in address bar, for ex.
+
